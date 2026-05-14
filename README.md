@@ -199,13 +199,6 @@ Frontend mặc định chạy trên `http://localhost:5173`.
 - Tích hợp `Spring AI` với `Google Gemini` để trả lời câu hỏi liên quan đặt tour.
 - Hỗ trợ lưu và làm mới bộ nhớ hội thoại khi xảy ra lỗi.
 
-## Tài liệu tham khảo dự án
-
-- `CS301V_REPORT Final Project_Group Chí Tâm & Quốc Anh_Tour Booking System.pdf`
-- `CS301V_SLIDE Final Project Software_Official.pdf`
-- `Diagrams/` chứa sơ đồ lớp, sơ đồ trình tự và use case.
-- `Database/` chứa script tạo bảng và dữ liệu mẫu.
-
 ## Ghi chú quan trọng
 
 - Package backend hiện đang dùng `com.tourbooking.tour_management` do `com.tourbooking.tour-management` không hợp lệ trong Java.
